@@ -1,6 +1,6 @@
 ### A React, Express and MongoDb app template all neatly wrapped up in a Docker container
 
-A containerised MERN stack app template all ready to go. FE, BE and DB are all set up and already talking to each other. Repo includes a couple of code examples too.
+A containerised MERN stack app template all ready to go. FE, BE and DB are all set up and already talking to each other. Repo also includes a couple of demo code examples to guide you along eg: making a Fetch request to the API from the React app & Querying the Db from the BE.
 
 - MongoDb
 - Express
