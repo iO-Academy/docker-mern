@@ -27,3 +27,7 @@ $ docker-desktop up
 ## Other notes to be aware of
 
 Both the `client` and the `api` parts of the project use `.env` files to manage Base URLs and DB connection creds
+
+To connect to A MongoDb GUI (eg:MongoDb Compass) use the following string:
+`mongodb://root:password@localhost:9999/?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&ssl=false`
+If it doesnt work 1st time, try it again a 2nd. 
